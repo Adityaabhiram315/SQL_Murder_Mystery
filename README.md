@@ -1,5 +1,4 @@
-
-<div id="message-text-847d0618-1977-41f9-9279-4d0b815fb4af" class="markdown prose w-full flex flex-col break-words dark:prose-invert">
+🕵️‍♂️ **SQL Detective & Web Scraping Adventure Repository** 🕸️
     
     <h1>🕵️‍♂️ SQL Detective &amp; Web Scraping Adventure Repository 🕸️</h1></div>
 🔍 **SQL Detective Challenge:** Embark on a thrilling murder mystery investigation using SQL! Set up an SQL database, recreate crime data tables, and craft intricate queries using SELECT, JOIN, and WHERE. Dive deep into the analysis, connecting the dots to unveil the sequence of events and identify potential suspects. Conclude with a compelling case summary.
