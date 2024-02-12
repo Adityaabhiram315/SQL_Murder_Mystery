@@ -1,5 +1,7 @@
-**GitHub Project Description: SQL Detective & Web Scraping Adventure 🕵️‍♂️🕸️**
 
+<div id="message-text-847d0618-1977-41f9-9279-4d0b815fb4af" class="markdown prose w-full flex flex-col break-words dark:prose-invert">
+    
+    <h1>🕵️‍♂️ SQL Detective &amp; Web Scraping Adventure Repository 🕸️</h1></div>
 🔍 **SQL Detective Challenge:** Embark on a thrilling murder mystery investigation using SQL! Set up an SQL database, recreate crime data tables, and craft intricate queries using SELECT, JOIN, and WHERE. Dive deep into the analysis, connecting the dots to unveil the sequence of events and identify potential suspects. Conclude with a compelling case summary.
 
 🌐 **Web Scraping Adventure:** Embark on a web scraping journey! Select a website aligned with your interests, analyze its structure, and employ Python libraries like BeautifulSoup and Requests for extraction. Document your process, including the source website, data extraction methods, and ethical considerations. Unleash the detective in you as you scrape, collect, and document intriguing datasets.
