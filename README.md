@@ -1,4 +1,4 @@
-🕵️‍♂️🚀 **SQL Detective & Web Scraping Adventure Repository:**🕸️
+🕵️‍♂️**SQL Detective & Web Scraping Adventure Repository:**🕸️
 
     
 🔍 **SQL Detective Challenge:** Embark on a thrilling murder mystery investigation using SQL! Set up an SQL database, recreate crime data tables, and craft intricate queries using SELECT, JOIN, and WHERE. Dive deep into the analysis, connecting the dots to unveil the sequence of events and identify potential suspects. Conclude with a compelling case summary.
@@ -17,8 +17,6 @@
 📈 **Skills Demonstrated:** SQL, Database Management, Web Scraping, Python, Data Analysis, Documentation, Ethical Data Practices.
 
 👨‍💻 **About Me:** I'm a creative student with a passion for solving mysteries, both in SQL databases and the vast web. Join me in this dual adventure of detective work and web scraping, where data speaks louder than words!
-
-🎓 **Education:** \[Your University/Institution\]
 
 🌟 **Open for Collaboration:** Excited to collaborate and explore new data-driven adventures! Open to feedback and suggestions.
 
