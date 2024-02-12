@@ -1,5 +1,5 @@
 🕵️‍♂️**SQL Detective & Web Scraping Adventure Repository:**🕸️
-
+GitHub Project Showcase: SQL Detective Challenge & Web Scraping Adventure 🕵️‍♂️🕸️
     
 🔍 **SQL Detective Challenge:** Embark on a thrilling murder mystery investigation using SQL! Set up an SQL database, recreate crime data tables, and craft intricate queries using SELECT, JOIN, and WHERE. Dive deep into the analysis, connecting the dots to unveil the sequence of events and identify potential suspects. Conclude with a compelling case summary.
 
